@@ -1,0 +1,9 @@
+streamlit
+pandas == 2.2.2
+PyPDF2
+langchain
+xlsxwriter
+openai
+plotly==5.22.0
+matplotlib
+transformers
